@@ -1,0 +1,3 @@
+cool-lexer.l为flex的源文件
+lex.yy.c和cool-lexer为其生成的相关文件
+剩余的test开头文件和hello文件为测试文件
